@@ -15,3 +15,7 @@ path = "src/01.rs"
 [[bin]]
 name = "01-no-alloc"
 path = "src/01-no-alloc.rs"
+
+[[bin]]
+name = "02-no-alloc"
+path = "src/02-no-alloc.rs"
